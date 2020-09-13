@@ -1,0 +1,10 @@
+# Servidor
+
+SERVER_HOST=0.0.0.0
+SERVER_PORT=3333
+
+# Banco de dados Postgres
+
+DB_HOST=
+DB_USERNAME=
+DB_PASSWORD=
